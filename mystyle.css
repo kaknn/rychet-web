@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+.colored-text {
+  color: white;
+}
+.colored-text1 {
+  margin-left: 500px;
+  color: rgb(227, 46, 185);
+}
+.colored-text2 {
+  color: chartreuse;
+
+}
+
+
+.background {
+  background-image: url("https://images3.alphacoders.com/133/1335169.png");
+  background-size: cover;
+}
+.margin-top {
+   
+  margin-top: 20px;
+  color: lime;
+}
+.margin-bottom {
+    
+  margin-bottom: 30px;
+  color: lime;
+}
+.margin-left-right {
+
+  margin: 10px;
+  color: lime;
+}
+.padding-text {
+  padding: 15px;
+  border: 3px solid #f1ee2a;
+  color: rgb(255, 255, 255);
+}
+.bordered {
+  border: 2px solid rgb(195, 240, 33);
+  padding: 10px;
+  color: aqua;
+}
